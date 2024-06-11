@@ -1,16 +1,28 @@
-## Hi there 👋
+# Student README 👨‍🎓
 
-<!--
-**KrishnaModi15/KrishnaModi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ℹ️
+- **Name:** Krishna Modi
+- **University:** Jain University, Bengaluru 🏫
+- **Program:** B.Tech in Software Engineering 🖥️
+- **Experience:** Currently gaining experience 🌱
 
-Here are some ideas to get you started:
+## Skills 🛠️
+- **Python:** Basics ✨
+- **PowerBI:** Knowledgeable 📊
+- **C Programming:** Proficient 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 🌟
+- Software Development
+- Data Visualization
+- Problem Solving
+
+## Goals 🎯
+- Enhance Python skills
+- Master PowerBI
+- Dive deeper into software engineering concepts
+
+## Contact Me 📧
+- [LinkedIn]()
+- [Email](krishnamodi719@gmail.com)
+
+Feel free to reach out for collaborations, discussions, or just to say hi! 😊
