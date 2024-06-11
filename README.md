@@ -1,5 +1,3 @@
-# Student README 👨‍🎓
-
 ## About Me ℹ️
 - **Name:** Krishna Modi
 - **University:** Jain University, Bengaluru 🏫
